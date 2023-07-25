@@ -1,0 +1,249 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#head
+{
+    border: 1px solid black;
+     width: 100%;
+     height: 60px;
+     display: flex;
+     justify-content: space-between;
+     background-color:darkblue;
+     color:white;
+     /* position: sticky;
+     top: 0px; */
+
+     
+}
+
+#headone{
+    border: 1px solid black;
+    width: 40%;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: none;
+}
+#headtwo{
+    border: 1px solid black;
+    width: 40%;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: none;
+    text-transform: capitalize;
+    text-decoration: none;
+    
+}
+.one{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+
+
+/* 2ndpart */
+
+#parttwo{
+    border: 1px solid black;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    background-color:black;
+}
+
+#text{
+   border: 1px solid black;
+   width: 50%;
+   height: 300px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+#image{
+    border: 1px solid black;
+    width: 50%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    opacity: 0.5;
+    
+    
+    
+}
+#color{
+    color: red;
+
+}
+
+.me{
+    /* border: 1px solid white; */
+    font-size: 30px;
+    width: 300px;
+    color: aliceblue;
+
+}
+#element{
+    color: white;
+    font-size:x-large;
+}
+#three{
+    border: 5px solid black;
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    display: flex;
+}
+#photo{
+    border: 2px solid black;
+    width: 30%;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+    background-image: url(coder.png);
+    background-size: 90% 300px;
+    background-repeat: no-repeat;
+    display: flex;
+}
+#aboutus{
+    border: 2px solid black;
+    width: 50%;
+    height: 300px;
+    margin: 50px;
+    color: white;
+  
+}
+#skills{
+    margin-top: 20px;
+    
+}
+.s{
+    margin-left: 50px;
+    text-decoration: none;
+}
+
+#web{
+    margin: 20px;
+    color: lightblue;
+    display: flex;
+}
+#four{
+    border: 5px solid black;
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    display: flex;
+}
+#h1{
+    color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#con{
+    display: flex;
+
+}
+#wd{
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    margin-top: 120px;
+    margin-right: 40px;
+    color: white;
+    
+   
+  
+    
+}
+#uiux{
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    margin-top: 120px;
+    color: white;
+}
+#app{
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    margin-top: 120px;
+    margin-left: 40px;
+    color: white;
+}
+.des{
+    margin-top: 60px;
+}
+#icon{
+    margin: 20px;
+}
+#ui1{
+    margin-top: 80px;
+}
+#icon1{
+    margin-top: 10px;
+}
+#app2{
+    margin: 20px;
+    margin-left: 10px;
+    
+}
+#wd:hover{
+    background-color: rgb(235, 122, 122);
+    
+}
+#uiux:hover{
+    background-color: rgb(235, 122, 122);
+}
+#app:hover{
+    background-color:  rgb(235, 122, 122);;
+}
+
+
+/* 5thpart */
+#five{
+    border: 2px solid black;
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    display: flex;
+}
+
+#contact{
+    border: 2px solid black;
+    width: 40%;
+    height: 200px;
+    margin-top: 80px;
+    margin-left: 50px;
+    color: white;
+    
+}
+#me1{
+    margin-top: 20px;
+}
+#but{
+    background-color: red;
+}
+
+
+#text{
+    border: 2px solid black;
+    width: 40%;
+    height: 200px;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+.bg{
+    background-color: black;
+}
+#submit{
+    background-color: red;
+}
+ 
